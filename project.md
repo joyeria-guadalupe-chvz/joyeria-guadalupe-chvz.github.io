@@ -1,5 +1,5 @@
 ---
-layout: JOYERIA 
-title: JOYERIACHVZ
+layout: joyeria
+title: JOYERIA
 ---
 
