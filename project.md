@@ -1,5 +1,5 @@
 ---
-layout: project
-title: joyeria chvz
+layout: JOYERIA 
+title: JOYERIACHVZ
 ---
 
